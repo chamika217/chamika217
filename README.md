@@ -1,105 +1,145 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Chamika Dilshan Dissanayake</h1>
+<h3 align="center">💻 IT Undergraduate | 🌱 Full-Stack Developer | 💡 Tech Enthusiast</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Chamika%20Dilshan&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=IT%20Undergraduate%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Development+Enthusiast;Full-Stack+Web+Developer+%7C+MERN+Stack;Android+App+Developer+%7C+Java+%26+Kotlin;Always+Learning+New+Technologies+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
-</div>
-
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=BSc+IT+Undergraduate+%40+SLIIT;Full+Stack+Web+Developer;Java+%7C+React+%7C+Spring+Boot+%7C+MySQL;Always+learning+something+new+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-```javascript
-const chamika = {
-  name: "Chamika Dilshan",
-  university: "SLIIT - Sri Lanka Institute of Information Technology",
-  degree: "BSc in Information Technology",
-  location: "Sri Lanka 🇱🇰",
-  currentlyLearning: ["Java", "MySQL", "React", "Spring Boot"],
-  interests: ["Web Development", "System Analysis", "UI/UX Design"],
-  lookingFor: "Internships & Freelance opportunities",
-  contact: "disanayakedilshan7@email.com",
-  funFact: "I regularly practice coding on HackerRank & LeetCode! 💡"
-};
-```
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=chamika217&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/chamika217?label=Followers&style=social" alt="followers" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🌟 About Me
 
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- 🎓 I'm currently pursuing a **BSc (Hons) in Information Technology** at **SLIIT** (2023 – 2027)
+- 💼 **Full-Stack Development Intern** offer received at **Sysslan IT Solutions**
+- 💻 Passionate about **Full-Stack Web Development**, **Mobile App Development**, and **System Design**
+- 🌱 Currently sharpening my skills in **MERN Stack**, **Spring Boot**, and **Cloud Computing**
+- 🎯 Interested in **Web Development**, **System Analysis**, and **UI/UX Design**
+- 💪 I regularly practice coding on **[HackerRank](https://www.hackerrank.com/)** and **[LeetCode](https://leetcode.com/)**
+- 📫 Reach me at: **disanayakedilshan7@gmail.com**
+- 🌐 Portfolio: **[chamika217.github.io/portfolio](https://chamika217.github.io/portfolio)**
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+---
 
-### Databases & Tools
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+## 🛠️ Tech Stack & Tools
+
+### 👨‍💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+</p>
+
+### 🌐 Web Development
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+</p>
+
+### 📱 Mobile Development
+<p>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+</p>
+
+### 🎨 Design & Tools
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+| ------- | ----------- | ---------- |
+| **🌿 Cinnex** | Cinnamon Plantation Management System with real-time data handling & reporting | MERN Stack |
+| **🧘 Wellness Track** | Mood Journal & Habit Tracker with reminders, statistics dashboard & widgets | Java, Kotlin, XML |
+| **🎬 Seven Leven** | Film Ticket Booking Application with online browsing & booking | Android, Java, Kotlin |
+| **🏠 Rentspare** | Online Property Management System with listings & transactions | Java, JavaScript, HTML, CSS |
+| **👗 Fashion Store** | Online Shopping System with product browsing & purchasing | PHP, HTML, CSS, JS |
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chamika217&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamika217&layout=compact&theme=tokyonight&langs_count=8" />
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=chamika217&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamika217&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chamika217&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chamika217&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff9900&currStreakLabel=58a6ff)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏆 Coding Profiles
-
-<div align="center">
-
-[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/)
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=chamika217&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
 
 ---
 
-## 📫 Connect with Me
+## 🏆 Certifications
 
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:disanayakedilshan7@email.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chamika-dilshan)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chamika217)
-
-</div>
+- 🧪 **ISTQB Certified Tester – Foundation Level (CTFL)**
+- 💼 **Certificate in ERP Basics with SAP** – University of Kelaniya
+- 📊 **Master Microsoft Power BI Certification** – Alison
+- 🤖 **Build an AI Agent** – IBM SkillsBuild
+- 💬 **Prompt Engineering for ChatGPT** – Vanderbilt University (Coursera)
+- ☕ **Object-Oriented Programming with Java**
+- 🌐 **Full Stack Web Development with Node.js** – Udemy
+- 📋 **Foundations of Project Management** – University of Moratuwa
+- 🍃 **MongoDB Data Modeling Path**
+- 🔐 **Cisco Networking Academy** – Cybersecurity | IoT | Packet Tracer | Linux
 
 ---
 
-<div align="center">
+## 🤝 Connect with Me
 
-![Profile Views](https://komarev.com/ghpvc/?username=chamika217&label=Profile%20Views&color=2c5364&style=flat)
+<p align="center">
+  <a href="https://www.linkedin.com/in/chamika-dissanayake-1351a3358">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/chamika217">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:disanayakedilshan7@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://chamika217.github.io/portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" />
+---
 
-</div>
+<p align="center">
+  <i>⭐ "Strive for progress, not perfection." ⭐</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
