@@ -1,145 +1,220 @@
-<h1 align="center">Hi 👋, I'm Chamika Dilshan Dissanayake</h1>
-<h3 align="center">💻 IT Undergraduate | 🌱 Full-Stack Developer | 💡 Tech Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Development+Enthusiast;Full-Stack+Web+Developer+%7C+MERN+Stack;Android+App+Developer+%7C+Java+%26+Kotlin;Always+Learning+New+Technologies+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+# Hi 👋, I'm Chamika Dilshan Dissanayake
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chamika217&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/chamika217?label=Followers&style=social" alt="followers" />
-</p>
+### Information Technology Undergraduate | Full-Stack Development Enthusiast | Software Developer
+
+<img src="https://komarev.com/ghpvc/?username=chamika217&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+
+</div>
 
 ---
 
-## 🌟 About Me
+## 👨‍💻 About Me
 
-- 🎓 I'm currently pursuing a **BSc (Hons) in Information Technology** at **SLIIT** (2023 – 2027)
-- 💼 **Full-Stack Development Intern** offer received at **Sysslan IT Solutions**
-- 💻 Passionate about **Full-Stack Web Development**, **Mobile App Development**, and **System Design**
-- 🌱 Currently sharpening my skills in **MERN Stack**, **Spring Boot**, and **Cloud Computing**
-- 🎯 Interested in **Web Development**, **System Analysis**, and **UI/UX Design**
-- 💪 I regularly practice coding on **[HackerRank](https://www.hackerrank.com/)** and **[LeetCode](https://leetcode.com/)**
-- 📫 Reach me at: **disanayakedilshan7@gmail.com**
-- 🌐 Portfolio: **[chamika217.github.io/portfolio](https://chamika217.github.io/portfolio)**
+I am a motivated and detail-oriented **Information Technology undergraduate at SLIIT**, with a strong interest in **software development, full-stack web development, mobile application development, and emerging technologies**.
+
+I enjoy building practical software solutions using modern technologies such as **MERN Stack, Java, JavaScript, Kotlin, PHP, MySQL, MongoDB, and Android development frameworks**. I am passionate about continuous learning, problem solving, system development, and contributing to real-world technology projects.
+
+- 🎓 BSc in Information Technology undergraduate at **SLIIT**
+- 💼 Full Stack Development Intern at **Sysslan IT Solutions**
+- 🌱 Currently improving my skills in **MERN Stack, Spring Boot, Android Development, AI, and Cloud Computing**
+- 🔍 Interested in **Full-Stack Development, Software Engineering, QA, System Development, and UI/UX**
+- 🚀 Passionate about building academic, freelance, and industry-level software projects
+- 📫 Reach me: **disanayakedilshan7@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Technical Skills
 
-### 👨‍💻 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-</p>
+### Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-### 🌐 Web Development
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-</p>
+### Web Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 📱 Mobile Development
-<p>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
-</p>
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-### 🗄️ Databases
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-</p>
+### Mobile Development
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
-### 🎨 Design & Tools
-<p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
+### Tools & Platforms
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-| ------- | ----------- | ---------- |
-| **🌿 Cinnex** | Cinnamon Plantation Management System with real-time data handling & reporting | MERN Stack |
-| **🧘 Wellness Track** | Mood Journal & Habit Tracker with reminders, statistics dashboard & widgets | Java, Kotlin, XML |
-| **🎬 Seven Leven** | Film Ticket Booking Application with online browsing & booking | Android, Java, Kotlin |
-| **🏠 Rentspare** | Online Property Management System with listings & transactions | Java, JavaScript, HTML, CSS |
-| **👗 Fashion Store** | Online Shopping System with product browsing & purchasing | PHP, HTML, CSS, JS |
+### 🌿 Cinnex — Cinnamon Plantation Management System
+**Full-Stack Web Application | MERN Stack**
+
+A full-stack system developed to manage cinnamon plantation operations, production, delivery, inventory, finance, and reporting.
+
+**Key Highlights**
+- Developed using **React, Node.js, Express.js, and MongoDB**
+- Implemented task management and real-time data handling features
+- Designed workflows for plantation operations and international product sales
+- Added report generation and automated transaction management features
+
+---
+
+### 📱 Wellness Track — Mood Journal & Habit Tracker
+**Android Mobile Application**
+
+A self-care mobile application designed to support habit tracking, mood journaling, reminders, and user engagement.
+
+**Key Highlights**
+- Developed using **Java, Kotlin, XML, and Jetpack components**
+- Integrated habit tracking with automated reminders using **AlarmManager**
+- Implemented mood tracking with interactive calendar visualization
+- Used **SharedPreferences and Gson** for local data storage
+- Added statistics dashboard and home-screen widget
+
+---
+
+### 🎬 Seven Leven — Film Ticket Booking Application
+**Android Mobile Application**
+
+A mobile application for online movie browsing and ticket booking.
+
+**Key Highlights**
+- Developed using **Android Studio, Java, and Kotlin**
+- Implemented movie browsing and ticket booking functionality
+- Designed a clean and user-friendly mobile interface
+
+---
+
+### 🏠 Rentspare — Online Property Management System
+**Web Application**
+
+A web-based property management platform for property listing, viewing, and transaction management.
+
+**Key Highlights**
+- Developed using **Java, JavaScript, HTML, and CSS**
+- Implemented property listing and viewing features
+- Simulated real-world property management operations
+
+---
+
+### 🛍️ Fashion Store — Online Shopping System
+**Web Application**
+
+A web-based fashion store system designed for product browsing and online purchasing.
+
+**Key Highlights**
+- Developed using **PHP, HTML, CSS, and JavaScript**
+- Implemented product browsing and purchasing functionality
+- Designed a simple and user-friendly interface
+
+---
+
+## 🎓 Education
+
+**Bachelor of Science (BSc) in Information Technology**  
+Sri Lanka Institute of Information Technology — SLIIT  
+Oct 2023 – Oct 2027
+
+**G.C.E. Advanced Level Examination**  
+Successfully Completed — 2023
+
+**G.C.E. Ordinary Level Examination**  
+Successfully Completed — 2019
+
+---
+
+## 📜 Certifications
+
+- ISTQB Certified Tester — Foundation Level CTFL
+- ERP Basics with SAP — University of Kelaniya
+- Master Microsoft Power BI Certification — Alison
+- Critical Thinking in the AI Era — HP LIFE
+- Build an AI Agent — IBM SkillsBuild
+- Prompt Engineering for ChatGPT — Vanderbilt University, Coursera
+- Object-Oriented Programming with Java
+- Full Stack Web Development with Node.js — Udemy
+- Foundations of Project Management — University of Moratuwa
+- MongoDB Data Modeling Path
+- Introduction to Cybersecurity — Cisco Networking Academy
+- Introduction to Internet of Things — Cisco Networking Academy
+- Introduction to Packet Tracer — Cisco Networking Academy
+- NDG Linux Unhatched — Cisco Networking Academy
+
+---
+
+## 💡 Professional Skills
+
+- Full-Stack Web Development
+- Mobile Application Development
+- Database Design and Data Modeling
+- Software Testing and Quality Assurance
+- UI/UX Design and Prototyping
+- System Development and Application Deployment
+- Agile and Project Management Fundamentals
+- Problem Solving and Debugging
+- Leadership and Team Collaboration
+- Time Management and Continuous Learning
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chamika217&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamika217&layout=compact&theme=tokyonight&langs_count=8" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chamika217&theme=tokyonight" alt="GitHub Streak" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=chamika217&show_icons=true&theme=tokyonight" alt="Chamika's GitHub Stats" />
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chamika217&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
+<br/>
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamika217&layout=compact&theme=tokyonight" alt="Top Languages" />
 
-## 🏆 Certifications
+<br/>
 
-- 🧪 **ISTQB Certified Tester – Foundation Level (CTFL)**
-- 💼 **Certificate in ERP Basics with SAP** – University of Kelaniya
-- 📊 **Master Microsoft Power BI Certification** – Alison
-- 🤖 **Build an AI Agent** – IBM SkillsBuild
-- 💬 **Prompt Engineering for ChatGPT** – Vanderbilt University (Coursera)
-- ☕ **Object-Oriented Programming with Java**
-- 🌐 **Full Stack Web Development with Node.js** – Udemy
-- 📋 **Foundations of Project Management** – University of Moratuwa
-- 🍃 **MongoDB Data Modeling Path**
-- 🔐 **Cisco Networking Academy** – Cybersecurity | IoT | Packet Tracer | Linux
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chamika217&theme=tokyonight" alt="GitHub Streak" />
+
+</div>
 
 ---
 
-## 🤝 Connect with Me
+## 🏆 GitHub Achievements
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/chamika-dissanayake-1351a3358">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/chamika217">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:disanayakedilshan7@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://chamika217.github.io/portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=chamika217&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+
+</div>
 
 ---
 
-<p align="center">
-  <i>⭐ "Strive for progress, not perfection." ⭐</i>
-</p>
+## 🌐 Connect With Me
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</p>
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-chamika217-181717?style=for-the-badge&logo=github)](https://github.com/chamika217)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chamika%20Dissanayake-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chamika-dissanayake-1351a3358)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chamika217.github.io/portfolio)
+[![Email](https://img.shields.io/badge/Email-disanayakedilshan7%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:disanayakedilshan7@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### “Continuous learning, consistent practice, and real-world projects build strong software engineers.”
+
+</div>
