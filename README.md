@@ -157,7 +157,7 @@ Android self-care mobile application designed to support habit tracking, mood jo
 - Home-screen widget
 
 **Technologies**  
-`Java` `Kotlin` `XML` `Jetpack` `Gson`
+`Java` `Kotlin` `XML` `Jetpack` `Json`
 
 </td>
 </tr>
